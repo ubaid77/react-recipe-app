@@ -1,0 +1,35 @@
+.col-md-6{
+    max-width: 40%;
+}
+.card{
+    padding: 0;
+}
+
+.Recipe h3{
+    font-weight: 700;
+    color: rgb(48, 13, 17);
+}
+
+.Recipe .calories{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1rem;
+}
+.Recipe{
+    display: flex;
+    width: 100%;
+}
+
+.Recipe .c1{
+    width: 30%;
+}
+.Recipe .c2{
+    width: 70%;
+    padding: 20px 25px;
+    background-color: rgb(248, 238, 239);
+}
+
+.Recipe .c2 ul{
+    font-style: italic;
+}
+

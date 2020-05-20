@@ -1,0 +1,30 @@
+.Search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Search input{
+    width: 50%;
+    padding: 12px 15px;
+    border: 1px solid rgb(175, 173, 173);
+}
+
+.Search input:focus{
+    outline: none;
+}
+
+.Search button{
+    padding: 7px 20px;
+    font-size: 1.5rem;
+    background-color: rgb(129, 49, 58);
+    border: none;
+    color: ivory;
+}
+
+.food-row{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
